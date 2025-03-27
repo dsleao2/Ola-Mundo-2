@@ -1,2 +1,5 @@
-# Ola Mundo 
- Revendo  repositório Git e Git Hub versionado 
+# Olá, Mundo!
+ Revendo repositório Git e Git Hub versionado 
+
+
+Repositório criado durante revisão de aula. 
